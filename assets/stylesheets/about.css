@@ -1,0 +1,1503 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
+
+
+.aboutpage {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 4123px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.aboutpage .tvshows {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3502px;
+  height              : 649px;
+  width               : 1686px;
+  position            : absolute;
+  margin              : 0;
+  left                : -30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .tvshows .tvshowbox {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 84px;
+  height              : 565px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .tvshows .tvshowsmovies {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 91px;
+  height              : 468px;
+  width               : 1682px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .tvshows .tvshowsmovies .bobbybrownstory {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 465px;
+  width               : 403px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .tvshows .tvshowsmovies .unsolved {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 463px;
+  width               : 403px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1279px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .tvshows .tvshowsmovies .theneweditionstory {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 463px;
+  width               : 403px;
+  position            : absolute;
+  margin              : 0;
+  left                : 422px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .tvshows .tvshowsmovies .star {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 465px;
+  width               : 403px;
+  position            : absolute;
+  margin              : 0;
+  left                : 844px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .tvshows .tvheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 1481px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .tvshows .tvheader .tvheader1 {
+  background-color    : rgba(177, 8, 56, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 1481px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .tvshows .tvheader .tvshowsmovies1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 641px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.aboutpage .musichistory {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2684px;
+  height              : 821px;
+  width               : 1739px;
+  position            : absolute;
+  margin              : 0;
+  left                : -72px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musichistory .accomplishmentsbody {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 48px;
+  height              : 773px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musichistory .earlyapperancescopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 294px;
+  height              : 465px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musichistory .notabletours {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 302px;
+  height              : 448px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 880px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musichistory .beyoncemrcarter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 302px;
+  height              : 468px;
+  width               : 429px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1308px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musichistory .upskale {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 295px;
+  height              : 468px;
+  width               : 429px;
+  position            : absolute;
+  margin              : 0;
+  left                : 432px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musichistory .musichistory1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 275px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musichistory .musichistory1 .musichistory2 {
+  background-color    : rgba(177, 8, 56, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musichistory .musichistory1 .musichistory11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 733px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.aboutpage .musichistory .musichistory1 .historyparagraph {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 150px;
+  width               : 1331px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musichistory .musichistory1 .historyparagraph .whileinhighschool {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 1333px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(198, 217, 220, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.aboutpage .influenceandinspiration {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1805px;
+  height              : 879px;
+  width               : 1724px;
+  position            : absolute;
+  margin              : 0;
+  left                : -48px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .influenceheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 879px;
+  width               : 1724px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .influenceheader .influencebody {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 85px;
+  height              : 794px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .influenceheader .influencechips {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 368px;
+  height              : 465px;
+  width               : 1695px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .influenceheader .influencechips .bobbybrown {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 465px;
+  width               : 403px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .influenceheader .influencechips .marvingaye {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 465px;
+  width               : 403px;
+  position            : absolute;
+  margin              : 0;
+  left                : 428px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .influenceheader .influencechips .lukejamesandfamily {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 465px;
+  width               : 403px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1292px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .influenceheader .influencechips .johnnygill {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 465px;
+  width               : 403px;
+  position            : absolute;
+  margin              : 0;
+  left                : 856px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .influenceheader .influenceheaderbox {
+  background-color    : rgba(177, 8, 56, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 1516px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .influenceheader .influenceinspirat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 694px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.aboutpage .influenceandinspiration .leftsymbolarrow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 537px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 134px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .leftsymbolarrow .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .leftsymbolarrow .icon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 20px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .rightside {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 566px;
+  height              : 39px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1431px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .rightside .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 39px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .rightside .icon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 20px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .inspirationparagraph {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 149px;
+  height              : 180px;
+  width               : 1331px;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .influenceandinspiration .inspirationparagraph .jamesu2019innatetalent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 1333px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(198, 217, 220, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.aboutpage .musicandproduction {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 628px;
+  height              : 1175px;
+  width               : 1741px;
+  position            : absolute;
+  margin              : 0;
+  left                : -90px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musicandproduction .musicandproductionbackgronud {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 1108px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musicandproduction .soultrainmusicaward {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 668px;
+  height              : 468px;
+  width               : 429px;
+  position            : absolute;
+  margin              : 0;
+  left                : 431px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musicandproduction .danjaandluke {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 668px;
+  height              : 468px;
+  width               : 429px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1310px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musicandproduction .nomintaionsandawardscopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 668px;
+  height              : 463px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musicandproduction .productioncopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 668px;
+  height              : 463px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 879px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musicandproduction .goalsparagraph {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 402px;
+  height              : 177px;
+  width               : 1331px;
+  position            : absolute;
+  margin              : 0;
+  left                : 140px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musicandproduction .goalsparagraph .u201cthisisnu2019tafadfo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : 1333px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(198, 217, 220, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.aboutpage .musicandproduction .goalsparagraph .goals {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(240, 244, 243, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.aboutpage .musicandproduction .musicandwritingproducingparagraph {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 123px;
+  height              : 220px;
+  width               : 1331px;
+  position            : absolute;
+  margin              : 0;
+  left                : 136px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musicandproduction .musicandwritingproducingparagraph .heu2019sasingersongwr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 1331px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(198, 217, 220, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.aboutpage .musicandproduction .musicandwritingproducingparagraph .typeofmusicwrit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 385px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(240, 244, 243, 1.0);
+  text-align          : justify;
+  line-height         : 28.0px;
+}
+.aboutpage .musicandproduction .musicandproduction1 {
+  background-color    : rgba(177, 8, 56, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .musicandproduction .typeofmusicandpr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 641px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.aboutpage .header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 84px;
+  height              : 548px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : -27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .header .herobackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 548px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .header .quotes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 106px;
+  height              : 414px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1049px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .header .quotes .iu2019mwillingtogowh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : italic;
+  font-size           : 24.0px;
+  color               : rgba(240, 244, 243, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.aboutpage .header .quotes .lukejames2018 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 382px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 73px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(240, 244, 243, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.aboutpage .header .quotes .lukejames {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 336px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SnellRoundhand-Bold", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(240, 244, 243, 1.0);
+  text-align          : left;
+  line-height         : 46.0px;
+}
+.aboutpage .header .quotes .quote {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 26px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .header .quotes .quote .fill505 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 26px;
+  width               : 31px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .header .heroimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 48px;
+  height              : 463px;
+  width               : 900px;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .header .heroimage .whoislukejames {
+  background-color    : rgba(155, 154, 155, 1.0);
+  top                 : 0px;
+  height              : 463px;
+  width               : 900px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .header .heroimage .whoislukejames .mask {
+  background-color    : rgba(155, 154, 155, 1.0);
+  top                 : 0px;
+  height              : 463px;
+  width               : 900px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .header .heroimage .whoislukejames .whoislukejames1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -195px;
+  height              : 921px;
+  width               : 1228px;
+  position            : absolute;
+  margin              : 0;
+  left                : -164px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .header .heroimage .enlargecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 418px;
+  height              : 33px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 847px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .header .heroimage .enlargecopy3 .combinedshape2733 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.74;
+}
+.aboutpage .menubarcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -1px;
+  height              : 84px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : -26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .rectanglecopy4 {
+  background-color    : rgba(12, 0, 51, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .discography {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : 209px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(240, 244, 243, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.aboutpage .menubarcopy4 .home {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.aboutpage .menubarcopy4 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .linecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 360px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 896px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.aboutpage .menubarcopy4 .merchandise {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : 705px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.aboutpage .menubarcopy4 .media {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 564px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.aboutpage .menubarcopy4 .tour {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 412px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.aboutpage .menubarcopy4 .linecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 684px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .linecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 522px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .linecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 846px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .linecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 982px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .linecopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1118px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .linecopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1250px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .linecopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1352px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .instagramwhitefinal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1220px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .instagramwhitefinal .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .spotifywhitefinal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1129px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .spotifywhitefinal .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .youtubewhitefinal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 18px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .youtubewhitefinal .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 22px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .applewhitefinal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 18px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1044px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .applewhitefinal .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 16px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .googleplayfinal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 18px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1087px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .googleplayfinal .surface1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 15px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .amazonwhitefinal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 999px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .amazonwhitefinal .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .heartbuttonfinal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 26px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1360px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .heartbuttonfinal .ellipse1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 26px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .heartbuttonfinal .forma1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .sharewhitefinal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 33px;
+  height              : 25px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1407px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .sharewhitefinal .ellipse1copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 25px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .sharewhitefinal .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 7px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .twitterwhitefinal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1265px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .twitterwhitefinal .surface1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .soundcloudwhitefinal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : 15px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1310px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .menubarcopy4 .soundcloudwhitefinal .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 15px;
+  width               : 28px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .leftsymbolarrowcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1535px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 46px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .leftsymbolarrowcopy2 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutpage .leftsymbolarrowcopy2 .icon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 20px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;

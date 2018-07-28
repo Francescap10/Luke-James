@@ -1,0 +1,642 @@
+import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
+
+
+.tourscopytable {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1832px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(240, 244, 243, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.tourscopytable .headerandheroimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 9310px;
+  width               : 2694px;
+  position            : absolute;
+  margin              : 0;
+  left                : -25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .backgrounddisplaytour {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : 9251px;
+  width               : 2691px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .imagefortour {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : 671px;
+  width               : 1300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 97px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .imagefortour .lukejamesrunning {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 671px;
+  width               : 1300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .imagefortour .enlargecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 621px;
+  height              : 33px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1252px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .imagefortour .enlargecopy .combinedshape2733 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.74;
+}
+.tourscopytable .headerandheroimage .menubarcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .rectanglecopy4 {
+  background-color    : rgba(12, 0, 51, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .discography {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : 209px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(240, 244, 243, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .home {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .linecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 360px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 896px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .merchandise {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : 705px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .media {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 564px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .tour {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 412px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(224, 222, 219, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.3px;
+  line-height         : 24.0px;
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .linecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 684px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .linecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 522px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .linecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 846px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .linecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1008px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .linecopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1146px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .linecopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 72px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1254px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .instagram {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : 21px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1266px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .instagram .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 21px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .spotify {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 19px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1164px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .spotify .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 19px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .youtube {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 19px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1213px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .youtube .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 24px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 19px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1071px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .googleplay {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 20px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1117px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .googleplay .surface1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 17px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .amazon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 20px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1021px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .amazon .shape3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .amazon .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 4px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .amazon .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .heartbuttondarkbluesmall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 29px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1358px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .heartbuttondarkbluesmall .ellipse1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 29px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .heartbuttondarkbluesmall .forma1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .share {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : 29px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1413px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .share .ellipse1copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 29px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .share .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .twitter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1316px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .headerandheroimage .menubarcopy2 .twitter .surface1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 22px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .tourtable {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 918px;
+  height              : 911px;
+  width               : 1465px;
+  position            : absolute;
+  margin              : 0;
+  left                : -13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .summertour {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 847px;
+  height              : 115px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : -27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .summertour .summertourheaderbox {
+  background-color    : rgba(177, 8, 56, 1.0);
+  top                 : 0px;
+  height              : 115px;
+  width               : 1467px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tourscopytable .summertour .summertour1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 606px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", 
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(240, 244, 243, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}

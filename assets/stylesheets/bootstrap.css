@@ -1,0 +1,10 @@
+body{
+  background: green;
+}
+
+section.hero {
+  margin-top: 65px;
+}
+.wrapper {
+  margin-top: 1000px;
+}
