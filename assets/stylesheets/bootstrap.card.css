@@ -1,3 +1,12 @@
+<style>
+body {
+padding-top: 1em;
+}
+</style> <div class="container-fluid">
+
+<div class="card" style="max-width: 20rem;">
+
+
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     max-width: 300px;
