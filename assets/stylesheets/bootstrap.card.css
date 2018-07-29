@@ -1,0 +1,105 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.card-head {
+  background-color: #F9845B;
+  display: block;
+  color: white;
+  overflow: hidden;
+  margin-top: -.08em;
+  margin-left: -.05em;
+  margin-right: -.05em;
+}
+
+.title {
+    color: grey;
+    font-size: 18px;
+
+.card-footer {
+  background-color: #F9845B;
+  display: inline-block;
+  color: white;
+  overflow: hidden;
+  margin-top: -2em ;
+  margin-left: -.05em;
+  margin-right: -.05em;
+}
+
+
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+
+button:hover, a:hover {
+    opacity: 0.7;
+}
+  h2#card-styles {
+}
+.bd-content>h2:not(:first-child) {
+    margin-top: 3rem;
+}
+.bd-content>h2[id], .bd-content>h3[id], .bd-content>h4[id] {
+    pointer-events: none;
+}
+.h2, h2 {
+    /* font-size: 2rem; */
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+}
+*, ::after, ::before {
+    /* box-sizing: border-box; */
+}
+body {
+    margin: 0;
+    font-family: Roboto,
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+:root {
+    --blue: #007bff;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: ,Roboto,;
